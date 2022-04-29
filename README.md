@@ -1,0 +1,1 @@
+The code is about creating a school website
