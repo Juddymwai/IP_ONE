@@ -11,11 +11,12 @@ div.nav {
     align-items: center;
     background-color: white;
     background-clip: content-box;
+    p
 
   }
   img{
-      height: 100px;
-      width: 150px;
+      height: 150px;
+      width: 200px;
   }
   .mentors{
       display:table;
@@ -34,13 +35,14 @@ div.nav {
   body{
       padding:6px;
       font-style:numito;
+      margin: 20px;
 
   }
   .container{
       float:left;
       padding: 5px;
       background-color: aliceblue;
-      width: 150px;
+      width: 200px;
 
 
   }
@@ -58,3 +60,49 @@ div.nav {
      color:#EC4067
 
  }
+ .column-one {
+     
+    
+     background-color:rgb(112, 112, 106);
+
+
+ }
+ .column-one img {
+     width:250px;
+     height: 250px;
+ }
+ .about p {
+     width:50%;
+ }
+ .about img {
+     width:400px;
+     height: 300px;
+
+ }
+ .column {
+width:50%;
+]
+ 
+ .column-two {
+     width:100px;
+     margin-bottom: 20px;
+ }
+ .column-two p {
+     width:300px;
+ }
+ .board-one {
+     width:50%;
+ }
+
+.about-moringa {
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+}
+.about-moringa img {
+    width: 250px;
+    height: 250px;
+}
+.grad img {
+    width:50%;
+    margin-right: 100px;
+}
