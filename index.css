@@ -1,3 +1,60 @@
 ul{
-    display:block;
+    
+    color:#EC4067;
+    display: inline;
+
 }
+
+div.nav {
+    display: inline;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+    background-clip: content-box;
+
+  }
+  img{
+      height: 100px;
+      width: 150px;
+  }
+  .mentors{
+      display:table;
+
+  }
+  button{
+     
+      background-color:#EC4067;
+      color:white;
+      border-radius: 5px;
+      padding: 5px;
+      border-bottom: 5px;
+      font-size: small;
+
+  }
+  body{
+      padding:6px;
+      font-style:numito;
+
+  }
+  .container{
+      float:left;
+      padding: 5px;
+      background-color: aliceblue;
+      width: 150px;
+
+
+  }
+  .container p {
+      font-size:small;
+      display:block;
+      padding-top: 20px;
+      height:100px;
+
+  }
+  .container button {
+      font-size: x-small;
+  }
+ .container h5{
+     color:#EC4067
+
+ }
