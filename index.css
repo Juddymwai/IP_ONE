@@ -32,9 +32,10 @@ ul{
       background-color:#EC4067;
       color:white;
       border-radius: 5px;
-      padding: 5px;
+      padding: 10px;
       border-bottom: 5px;
       font-size: small;
+      border: none;
 
   }
   body{
@@ -86,7 +87,7 @@ ul{
 
  }
  .column {
-width:50%;
+    width:50%;
  }
  
  .column-two {
