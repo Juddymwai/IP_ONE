@@ -60,7 +60,7 @@ ul{
   .container p {
       font-size:small;
       display:block;
-      padding-top: 20px;
+      padding-top: 5px;
       height:100px;
 
   }
@@ -108,7 +108,7 @@ ul{
 
 .about-moringa {
     margin-bottom: 10px;
-    background-color: rgb(252, 243, 235);
+    background-color: #fcf3eb;
     border-radius: 10px;
 }
 .about-moringa img {
