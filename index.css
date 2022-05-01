@@ -151,11 +151,18 @@ ul{
     
 }
 .project-one p {
-    width: 300px;
+    width: 400px;
 }
 .project-two img {
     margin-left: 600px;
     width: 400px;
     height: 400px;
     
+}
+.footer {
+    border-radius: 10px;
+    background-color: rgb(131, 68, 68);
+    text-align: center;
+  
+    padding:100px;
 }
