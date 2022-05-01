@@ -33,9 +33,10 @@ ul{
       color:white;
       border-radius: 5px;
       padding: 10px;
-      border-bottom: 5px;
+      border-bottom: 0px;
       font-size: small;
       border: none;
+      
 
   }
   body{
@@ -95,11 +96,11 @@ ul{
  }
  
  .column-two {
-     width:100px;
+     width:200px;
      margin-bottom: 20px;
  }
  .column-two p {
-     width:300px;
+     width:350px;
  }
  .board-one {
      width:50%;
