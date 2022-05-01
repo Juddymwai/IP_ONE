@@ -6,12 +6,12 @@ ul{
 }
 
 .nav {
-    display: inline;
-    flex-direction: column;
-    align-items: center;
-    background-color: white;
-    background-clip: content-box;
+    
     border-radius: 10px;
+    background-color: rgb(131, 68, 68);
+    margin-bottom: 20px;
+    
+
     
 
   }
@@ -74,7 +74,7 @@ ul{
      
     border-radius: 10px;
     
-    background-color:rgb(112, 112, 106);
+    background-color:rgb(241, 241, 229);
 
 
  }
@@ -107,7 +107,7 @@ ul{
 
 .about-moringa {
     margin-bottom: 10px;
-    background-color: antiquewhite;
+    background-color: rgb(252, 243, 235);
     border-radius: 10px;
 }
 .about-moringa img {
