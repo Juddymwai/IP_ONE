@@ -52,6 +52,7 @@ ul{
       width: 200px;
       border-radius: 10px;
       margin-bottom: 20px;
+      margin-left: 10px;
 
       
 
@@ -60,8 +61,9 @@ ul{
   .container p {
       font-size:small;
       display:block;
-      padding-top: 5px;
+      padding-top: 10px;
       height:100px;
+    
 
   }
   .container button {
