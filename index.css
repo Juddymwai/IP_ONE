@@ -46,9 +46,11 @@ ul{
   }
   .container{
       float:left;
-      padding: 5px;
+      padding: 10px 80px 0px;
       background-color: aliceblue;
       width: 200px;
+
+      
 
 
   }
@@ -70,7 +72,7 @@ ul{
      
     border-radius: 10px;
     
-     background-color:rgb(112, 112, 106);
+    background-color:rgb(112, 112, 106);
 
 
  }
