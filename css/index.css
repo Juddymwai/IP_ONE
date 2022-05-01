@@ -1,0 +1,172 @@
+ul{
+    
+  
+    display: inline;
+
+}
+
+.nav {
+    
+    border-radius: 10px;
+    background-color: rgb(131, 68, 68);
+    margin-bottom: 20px;
+    
+
+    
+
+  }
+  .nav ul {
+      margin-inline-end:  50px;
+      padding-left: 550px;
+  }
+  img{
+      height: 150px;
+      width: 200px;
+  }
+  .mentors{
+      display:table;
+
+  }
+  button{
+     
+      background-color:#EC4067;
+      color:white;
+      border-radius: 5px;
+      padding: 10px;
+      border-bottom: 0px;
+      font-size: small;
+      border: none;
+      
+
+  }
+  body{
+      padding:6px;
+      font-style:numito;
+      margin: 20px;
+
+  }
+  .container{
+      float:left;
+      padding: 10px 80px 0px;
+      background-color: aliceblue;
+      width: 200px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      margin-left: 10px;
+
+      
+
+
+  }
+  .container p {
+      font-size:small;
+      display:block;
+      padding-top: 10px;
+      height:100px;
+    
+
+  }
+  .container button {
+      font-size: x-small;
+  }
+ .container h5{
+     color:#EC4067
+
+ }
+ .column-one {
+     
+    border-radius: 10px;
+    
+    background-color:rgb(241, 241, 229);
+
+
+ }
+ .column-one img {
+     width:250px;
+     height: 250px;
+ }
+ .about p {
+     width:50%;
+ }
+ .about img {
+     width:400px;
+     height: 300px;
+
+ }
+ .column {
+    width:50%;
+ }
+ 
+ .column-two {
+     width:200px;
+     margin-bottom: 20px;
+ }
+ .column-two p {
+     width:350px;
+ }
+ .board-one {
+     width:50%;
+ }
+
+.about-moringa {
+    margin-bottom: 10px;
+    background-color: #fcf3eb;
+    border-radius: 10px;
+}
+.about-moringa img {
+    width: 300px;
+    height: 350px;
+}
+
+.board-two img {
+    
+    width:300px;
+    height:200px;
+}
+.board {
+    background-color: beige;
+    border-radius: 10px;
+   
+
+}
+.grad-one img{
+    width: 250px;
+    height: 200px;
+    
+}
+.grad-two {
+    margin-left: 150px;
+}
+.grad-two p {
+    display: block;
+}
+.grad {
+    border-radius: 20px;
+    padding: 20px;
+
+    
+}
+.project {
+    
+    border-radius: 50px;
+    margin-top: 30px;
+    padding: 20px;
+    border: white;
+    
+}
+.project-one p {
+    width: 500px;
+}
+.project-two img {
+    margin-left: 400px;
+    width: 400px;
+    height: 400px;
+    
+}
+.footer {
+    border-radius: 10px;
+    background-color: rgb(131, 68, 68);
+    text-align: center;
+  
+    padding:100px;
+}
